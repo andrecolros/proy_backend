@@ -1,0 +1,12 @@
+PORT=3000
+
+DB_HOST=localhost
+DB_USER=postgres
+DB_PASSWORD=postgres
+DB_DATABASE=nombre_bd
+DB_DIALECT=postgres
+
+BCRYPT_SALT_ROUNDS=10
+
+JWT_SECRET=secret
+JWT_EXPIRES_SECOND=15*60
